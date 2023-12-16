@@ -1,4 +1,8 @@
 .carusel{
+    width: 270px;
+    height: 350px;
+}
+.img-thumbnail{
     width: 250px;
     
 }
