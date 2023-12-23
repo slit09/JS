@@ -89,7 +89,7 @@ let sharik = new Dog(2,"Шарик",5,"Двортерьер");
 let bob = new Dog(3,"Бобик",1,"Чихуахуа");
 
 
-console.table(sharik,bob)
-console.table(bob);
+console.log(sharik)
+console.log(bob);
 sharik.speek();
 bob.speek();
